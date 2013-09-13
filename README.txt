@@ -1,4 +1,4 @@
-Python Code that randomly generates questions from a set of questions to emulate a quiz.
+Python Code that randomly generates a question from a set of questions to emulate a flash card quiz.
 
 The input is a file that contains questions and answers sepearated by a comma (",").
 
