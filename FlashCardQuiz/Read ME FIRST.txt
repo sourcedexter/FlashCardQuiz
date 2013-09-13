@@ -1,0 +1,12 @@
+instruction to run quiz after module installation
+
+to run on idele
+1.open flashquiz.py and press f5.
+2.in the python idle shell type "quiz('file_name.txt')".
+3.hit enter
+
+to run on command line
+1.go to pyton folder on the PC
+2.type
+python -c "from flashquiz import quiz;quiz('filename.txt')"
+3.hit enter
